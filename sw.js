@@ -1,5 +1,5 @@
 // GitHub Pages / iOS PWA: fetch fresh versions online, fall back to cached files offline.
-const CACHE = 'gym-companion-offline-v1.2-media';
+const CACHE = 'gym-companion-offline-v1.2.1-approved';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './exercise-media.js'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
