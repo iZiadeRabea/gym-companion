@@ -1,3 +1,11 @@
+## Gym Companion v1.2.0 — صور الأجهزة والفيديوهات
+
+- صور توضيحية للأجهزة في مكتبة التمارين، ومحرر الجدول، وأثناء الحصة.
+- اضغط «صور الجهاز والفيديو» لعرض لقطتين وشرح عام ورابط فيديو من مصدر خارجي عندما يتوفر.
+- صور الأجهزة من [Free Exercise DB](https://github.com/yuhonas/free-exercise-db) وتحتاج إنترنت؛ لا تحتوي الحزمة على ملفات الفيديو، والروابط تُفتح في مواقع المصادر.
+- الصور/المقاطع للتعرف على الجهاز فقط وليست توصية بالتمرين أو موافقة طبية، خصوصًا مع مشاكل المفاصل والهيموفيليا.
+- يحتفظ التطبيق بنفس التخزين المحلي وسجل التمارين السابق.
+
 # Gym Companion | رفيق الجيم
 
 Mobile-first workout logging PWA. Tracks workout sessions, exercises, sets, reps, weights, timing, rest, and progress. Includes customizable plans and pre-exercise safety questions. Prototype v1.1.1; not medical advice. **Demo simulation mode** tests the timer without requiring or implying medical clearance.
