@@ -1,1 +1,1 @@
-# -gym-companio
+# -gym-companion
